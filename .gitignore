@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+data/
+*.docx
+*.doc
+*.png
+*.html
+.DS_Store
+
